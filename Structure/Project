@@ -1,0 +1,8 @@
+project/
+ ├── index.html
+ ├── style.css
+ ├── figures/
+ │     ├── wind_field_sardinia.png 
+ │     ├── wind_plots.png
+ │     ├── cumulative_rainfall.png
+ │     ├── MaximumDischarge.png
