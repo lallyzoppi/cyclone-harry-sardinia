@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cyclone Harry - Sardinia 2026`
 
 Automatic extraction and analysis of the ARPAS
@@ -56,3 +57,7 @@ The event highlights the importance of multi-scale interactions in shaping extre
 
 
 
+=======
+# cyclone-harry-sardinia
+Automatic extraction and analysis of the ARPAS post-event report 18-21 January 2026
+>>>>>>> 395bf899b66d99220f022f3f3ef64dc9787df490
